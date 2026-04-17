@@ -3,13 +3,13 @@
   <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Picture" width="150" />
 </p>
 
-<h1 align="center">Hi, I'm YOUR_NAME_HERE</h1>
+<h1 align="center">Hi, I'm Opeyemi Oriolowo</h1>
 <h2 align="center">Full Stack Developer | Data Analyst | Data Science Enthusiast</h2>
 
 ---
 
 <div align="center">
-  <a href="YOUR_GITHUB_LINK_HERE"><h2>View My Portfolio</h2></a>
+  <a href="github.com/oropo015"><h2>View My Portfolio</h2></a>
 </div>
 
 ---
